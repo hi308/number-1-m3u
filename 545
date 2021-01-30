@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="mbc",
-MBC 1,http://rv.therevenge.co:80/565656/565656/79478?checkedby:hlscat.com
+#EXTINF:-1 group-title="mbc",MBC 1
+,http://rv.therevenge.co:80/565656/565656/79478?checkedby:hlscat.com
 #EXTINF:-1,MBC 2
 http://rv.therevenge.co:80/565656/565656/79477?checkedby:hlscat.com
